@@ -38,7 +38,7 @@ const App = () => {
 
   if (error) {
     return <h2>Error: {error}</h2>;
-  }
+  };
 
   return (
     <div>
